@@ -55,13 +55,13 @@ function realtimeClock() {
         hour = today.getHours();
 
     if(hour <12) {
-        greeting.textContent = 'Good Morning Julien';
+        greeting.textContent = 'Good Morning Sarah';
     }else if ((hour > 12) && (hour<18)){
-        greeting.textContent = "Good Afternoon Julien";
+        greeting.textContent = "Good Afternoon Sarah";
     }else if((hour > 22) && (hour < 24)){
         greeting.textContent = "Time for bed, Right ?";
     }else {
-        greeting.textContent = "Good Evening Julien";
+        greeting.textContent = "Good Evening Sarah";
     }
     greeting = document.getElementById('greeting');
 }
