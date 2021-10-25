@@ -14,6 +14,9 @@ images[6] = 'images/7.jpg';
 images[7] = 'images/8.jpg';
 images[8] = 'images/9.jpg';
 images[9] = 'images/10.jpg';
+images[10] = 'images/11.jpg';
+images[11] = 'images/12.jpg';
+images[12] = 'images/13.jpg';
 
 
 
